@@ -1,0 +1,28 @@
+Source,Target,Weight
+"Iron Man	",Captain America,8
+Iron Man,Thor,5
+Iron Man,Hulk,6
+Iron Man,Black Widow,4
+Iron Man,Hawkeye,3
+Captain America,Thor,7
+Captain America,Hulk,6
+Captain America,Black Widow,9
+Captain America,Hawkeye,5
+Thor,Hulk,4
+Thor,Black Widow,3
+Thor,Hawkeye,3
+Thor,Iron Man,5
+Hulk,Black Widow,6
+Hulk,Hawkeye,4
+Black Widow,Hawkeye,7
+Nick Fury,Iron Man,5
+Nick Fury,Captain America,5
+Nick Fury,Thor,4
+Nick Fury,Hulk,3
+Nick Fury,Black Widow,6
+Nick Fury,Hawkeye,5
+Loki,Thor,10
+Loki,Hulk,7
+Loki,Iron Man,6
+Loki,Captain America,5
+,,
